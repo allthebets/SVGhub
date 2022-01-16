@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_50px.svg" width="200">
 
 <hr>
-<p alight="center">
+<p align="center">
   This work is licensed under a Creative Commons CC0 License.
 <br />
   No Rights Reserved.
