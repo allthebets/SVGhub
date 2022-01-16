@@ -3,7 +3,7 @@
     <style>
       .BasicTag {
         stroke:#000;
-        fill:#000;
+        fill:red;
         stroke-miterlimit:10;
         stroke-width:2px;
       }
