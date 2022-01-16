@@ -10,6 +10,7 @@
   <summary>
     Looking for Rounded Corners? Click to Expand
   </summary>
+<br />    
   BasicTag w/ 10px corner radius<br />  
   <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_10px.svg" width="200">
 <br />  
