@@ -11,6 +11,7 @@ Aspirationally, this will be a collection of SVGs released into the Public Domai
 <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="100">
 <details><summary>XML</summary>
 <p>
+{::options parse_block_html="false" /}  
   
   ```svg
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 363 549">
@@ -29,7 +30,8 @@ Aspirationally, this will be a collection of SVGs released into the Public Domai
         </g>
     </svg>
   ```
-  
+
+{::options parse_block_html="true" /}
 </p>
 </details>
 <p alight="center">
