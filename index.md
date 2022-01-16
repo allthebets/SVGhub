@@ -6,8 +6,9 @@ Aspirationally, this will be a collection of SVGs released into the Public Domai
 
 ~ allthebets
 
+
 ## [TEST] BasicTag.svg
-![BasicTag.svg](https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg)
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="100">
 <details><summary>XML</summary>
 <p>
   
