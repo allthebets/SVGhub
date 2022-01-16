@@ -11,9 +11,7 @@ Aspirationally, this will be a collection of SVGs released into the Public Domai
 <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="100">
 <details><summary>XML</summary>
 <p>
-{::options parse_block_html="false" /}  
-  
-  ```svg
+  <code>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 363 549">
       <defs>
         <style>
@@ -29,9 +27,7 @@ Aspirationally, this will be a collection of SVGs released into the Public Domai
           <polygon points="362 547.97 362 103.98 259.01 1 101.98 1 1 101.97 1.04 548 362 547.97"/>
         </g>
     </svg>
-  ```
-
-{::options parse_block_html="true" /}
+  </code>
 </p>
 </details>
 <p alight="center">
