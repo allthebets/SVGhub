@@ -4,7 +4,7 @@
 <br />  
 ## BasicTag
 <br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag.svg" width="200">
 <br />  
 <details>
   <summary>
@@ -12,31 +12,31 @@
   </summary>
 <br />    
   BasicTag w/ 10px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_10px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_10px.svg" width="200">
 <br />  
   BasicTag w/ 15px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_15px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_15px.svg" width="200">
 <br />    
   BasicTag w/ 20px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_20px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_20px.svg" width="200">
 <br />    
   BasicTag w/ 25px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_25px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_25px.svg" width="200">
 <br />    
   BasicTag w/ 30px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_30px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_30px.svg" width="200">
 <br />    
   BasicTag w/ 35px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_35px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_35px.svg" width="200">
 <br />    
   BasicTag w/ 40px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_40px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_40px.svg" width="200">
 <br />  
   BasicTag w/ 45px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_45px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_45px.svg" width="200">
 <br />    
   BasicTag w/ 50px corner radius<br />  
-  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_50px.svg" width="200">
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_50px.svg" width="200">
 </details>
 <hr>
 <p align="center">
