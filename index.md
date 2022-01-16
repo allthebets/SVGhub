@@ -1,5 +1,3 @@
-# SVG Hub - A repository of Public Domain SVGs
-
 ## BasicTag
 <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="200">
 ## BasicTag w/ 10px corner radius
