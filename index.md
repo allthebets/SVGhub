@@ -7,29 +7,28 @@ Aspirationally, this will be a collection of SVGs released into the Public Domai
 ~ allthebets
 
 
-## [TEST] BasicTag.svg
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="100">
-<details><summary>XML</summary>
-<p>
-  <code>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 363 549">
-      <defs>
-        <style>
-          .BasicTag {
-            stroke:#000;
-            fill:#000;
-            stroke-miterlimit:10;
-            stroke-width:2px;
-          }
-        </style>
-      </defs>
-        <g class="BasicTag">
-          <polygon points="362 547.97 362 103.98 259.01 1 101.98 1 1 101.97 1.04 548 362 547.97"/>
-        </g>
-    </svg>
-  </code>
-</p>
-</details>
+## [TEST] BasicTag
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="200">
+## [TEST] BasicTag w/ 10px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_10px.svg" width="200">
+## [TEST] BasicTag w/ 15px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_15px.svg" width="200">
+## [TEST] BasicTag w/ 20px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_20px.svg" width="200">
+## [TEST] BasicTag w/ 25px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_25px.svg" width="200">
+## [TEST] BasicTag w/ 30px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_30px.svg" width="200">
+## [TEST] BasicTag w/ 35px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_35px.svg" width="200">
+## [TEST] BasicTag w/ 40px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_40px.svg" width="200">
+## [TEST] BasicTag w/ 45px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_45px.svg" width="200">
+## [TEST] BasicTag w/ 50px corner radius
+<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_50px.svg" width="200">
+
+<hr>
 <p alight="center">
   This work is licensed under a Creative Commons CC0 License.
 <br />
