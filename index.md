@@ -7,11 +7,11 @@ Aspirationally, this will be a collection of SVGs released into the Public Domai
 ~ allthebets
 
 ## [TEST] BasicTag.svg
-![BasicTag.svg](/../main/SVGs/BasicTag.svg)
+![BasicTag.svg](https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg)
 <details><summary>XML</summary>
 <p>
   
-    ```
+  ```svg
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 363 549">
       <defs>
         <style>
@@ -27,7 +27,7 @@ Aspirationally, this will be a collection of SVGs released into the Public Domai
           <polygon points="362 547.97 362 103.98 259.01 1 101.98 1 1 101.97 1.04 548 362 547.97"/>
         </g>
     </svg>
-    ```
+  ```
   
 </p>
 </details>
