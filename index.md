@@ -3,7 +3,6 @@
 ### 3. enjoy :)
 <br />  
 ## BasicTag
-<br />  
   <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag.svg" width="200"> 
 <details>
   <summary>
@@ -40,7 +39,6 @@
 <hr>
 <br />
 ## Speech Bubble
-<br />  
   <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/SpeechBubble/SpeechBubble.svg" height="200"> 
 <details>
   <summary>
