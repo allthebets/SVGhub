@@ -4,8 +4,7 @@
 <br />  
 ## BasicTag
 <br />  
-  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag.svg" width="200">
-<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag.svg" width="200"> 
 <details>
   <summary>
     Looking for Rounded Corners? Click to Expand
@@ -39,10 +38,10 @@
   <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/BasicTag/BasicTag_50px.svg" width="200">
 </details>
 <hr>
+<br />
 ## Speech Bubble
 <br />  
-  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/SpeechBubble/SpeechBubble.svg" height="200">
-<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/SpeechBubble/SpeechBubble.svg" height="200"> 
 <details>
   <summary>
     Looking for Variations? Click to Expand
@@ -50,10 +49,10 @@
 <br />    
   Speech Bubble w/ no fill<br />  
   <img src="https://raw.githubusercontent.com/allthebets/SVGhub/main/SVGs/SpeechBubble/SpeechBubble_nofill.svg" height="200">
-<br />  
+</details> 
 <hr>
 <p align="center">
-  This work is licensed under a Creative Commons CC0 License.
+  This work is licensed under a <a href="https://creativecommons.org/publicdomain/zero/1.0" target="_blank" rel="noreferrer noopener">Creative Commons CC0 License</a>.
 <br />
   No Rights Reserved.
 </p>
