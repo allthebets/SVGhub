@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 363 549">
+  <defs>
+    <style>
+      .BasicTag {
+        stroke:#000;
+        fill:#000;
+        stroke-miterlimit:10;
+        stroke-width:2px;
+      }
+    </style>
+  </defs>
+    <g class="BasicTag">
+      <path d="M362,526.05V124.37A50,50,0,0,0,347.29,89L273.64,15.58A50,50,0,0,0,238.35,1H122.64A50,50,0,0,0,87.35,15.58L15.71,87A50,50,0,0,0,1,122.37L1,526.08A20,20,0,0,0,21,546l321,0A20,20,0,0,0,362,526.05Z"/>
+    </g>
+</svg>
