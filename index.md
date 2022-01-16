@@ -1,24 +1,42 @@
+### 1. Identify the SVG you would like
+### 2. right-click > save image as...
+### 3. enjoy :)
+<br />  
 ## BasicTag
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="200">
-## BasicTag w/ 10px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_10px.svg" width="200">
-## BasicTag w/ 15px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_15px.svg" width="200">
-## BasicTag w/ 20px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_20px.svg" width="200">
-## BasicTag w/ 25px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_25px.svg" width="200">
-## BasicTag w/ 30px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_30px.svg" width="200">
-## BasicTag w/ 35px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_35px.svg" width="200">
-## BasicTag w/ 40px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_40px.svg" width="200">
-## BasicTag w/ 45px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_45px.svg" width="200">
-## BasicTag w/ 50px corner radius
-<img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_50px.svg" width="200">
-
+<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag.svg" width="200">
+<br />  
+<details>
+  <summary>
+    Looking for Rounded Corners? Click to Expand
+  </summary>
+  ## BasicTag w/ 10px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_10px.svg" width="200">
+<br />  
+  ## BasicTag w/ 15px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_15px.svg" width="200">
+<br />    
+  ## BasicTag w/ 20px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_20px.svg" width="200">
+<br />    
+  ## BasicTag w/ 25px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_25px.svg" width="200">
+<br />    
+  ## BasicTag w/ 30px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_30px.svg" width="200">
+<br />    
+  ## BasicTag w/ 35px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_35px.svg" width="200">
+<br />    
+  ## BasicTag w/ 40px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_40px.svg" width="200">
+<br />  
+  ## BasicTag w/ 45px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_45px.svg" width="200">
+<br />    
+  ## BasicTag w/ 50px corner radius<br />  
+  <img src="https://raw.githubusercontent.com/allthebets/svghub/main/SVGs/BasicTag_50px.svg" width="200">
+</details>
 <hr>
 <p align="center">
   This work is licensed under a Creative Commons CC0 License.
